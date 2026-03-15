@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PDF Checklist</string>
+    <string name="title_activity_main">PDF Checklist</string>
+    <string name="package_name">com.ighorn.pdfchecklist</string>
+    <string name="custom_url_scheme">com.ighorn.pdfchecklist</string>
+</resources>

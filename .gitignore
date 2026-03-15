@@ -12,6 +12,13 @@ node_modules/
 frontend/dist/
 frontend/.vite/
 
+# Android build artifacts (keep source, ignore build outputs)
+frontend/android/.gradle/
+frontend/android/app/build/
+frontend/android/build/
+*.apk
+*.aab
+
 # OS
 .DS_Store
 Thumbs.db
